@@ -1,3 +1,7 @@
+[![Header](https://github.com/bprithiraj/bprithiraj/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[![bprithiraj.com](https://img.shields.io/badge/-bprithiraj.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.bprithiraj.com/)
+
 <h1 align="center">Hi 👋, I'm B.Prithiraj</h1>
 <h3 align="center">A passionate ML enthusiast and Competitive Programmer from INDIA</h3>
 
