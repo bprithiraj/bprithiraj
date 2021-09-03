@@ -37,4 +37,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bprithiraj&" alt="bprithiraj" /></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bprithiraj)](https://github.com/anuraghazra/github-readme-stats)
