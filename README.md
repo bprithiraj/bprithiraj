@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prithirajb120@gmail.com**
 
-- ⚡ Fun fact **Movie Buff and loves**
+- ⚡ Fun fact **Movie Buff and loves Football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
