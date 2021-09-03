@@ -35,5 +35,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bprithiraj&show_icons=true&locale=en" alt="bprithiraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bprithiraj&" alt="bprithiraj" /></p>
+                                                                                                                
+                                                                                                                
+[![prithiraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=bprithiraj&theme=react-dark)](https://github.com/agrawalkunal2001/github-readme-activity-graph)
+
 
 
