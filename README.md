@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bprithiraj" alt="bprithiraj" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/@b_prithiraj" target="blank"><img src="https://img.shields.io/twitter/follow/@b_prithiraj?logo=twitter&style=for-the-badge" alt="@b_prithiraj" /></a> </p>
+<p align="center"> <a href="https://twitter.com/@b_prithiraj" target="blank"><img src="https://img.shields.io/twitter/follow/@b_prithiraj?logo=twitter&style=for-the-badge" alt=" @b_prithiraj" /></a> </p>
 
 - 🌱 I’m currently learning **Neural Networks,ML algos and Blockchain fundamentals**
 
