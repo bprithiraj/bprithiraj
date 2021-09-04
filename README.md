@@ -1,5 +1,5 @@
 
-[![bprithiraj](https://img.shields.io/badge/-bprithiraj-000000?style=for-the-badge&logo=react&logoColor=white width="100" height="100")](https://www.bprithiraj/)
+[![bprithiraj](https://img.shields.io/badge/-bprithiraj-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.bprithiraj/)
 
 <h2> Hi, I'm Prithiraj ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="left">A passionate ML enthusiast and Competitive Programmer from INDIA</h3>
