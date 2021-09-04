@@ -18,11 +18,7 @@
 
 - ⚡ Fun fact **Movie Buff and loves Football**
 - 
-## My skills
 
-<p align="center">
-  <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@b_prithiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@b_prithiraj" height="30" width="40" /></a>
