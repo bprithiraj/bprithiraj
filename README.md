@@ -2,7 +2,7 @@
 [![bprithiraj](https://img.shields.io/badge/-bprithiraj-000000?style=for-the-badge&logo=react&logoColor=white&width="100"&heigth="100")](https://www.bprithiraj/)
 
 <h2> Hi, I'm Prithiraj ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h3 align="left">A passionate ML enthusiast and Competitive Programmer from INDIA</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bprithiraj&label=Profile%20views&color=0e75b6&style=flat" alt="bprithiraj" /> </p>
 
