@@ -10,9 +10,9 @@
 
 
 
-- 🌱 I’m currently learning **Neural Networks,ML algos and Blockchain fundamentals**
+- 🌱 I’m currently learning **LLMs,Transformers and LangChain**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Generative AI projects**
 
 - 📫 How to reach me **prithirajb120@gmail.com**
 
